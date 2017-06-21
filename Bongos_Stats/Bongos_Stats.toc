@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bongos_Stats
 ## Notes: A movable FPS, memory, and latency display
+## Notes-ruRU: Подвижный экран с ФПС, памятью и задержкой
 ## Author: Tuller
 ## Dependencies: Bongos
 ## SavedVariablesPerCharacter:  BStatsSets

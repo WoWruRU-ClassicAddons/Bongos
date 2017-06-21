@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bongos_CastBar
 ## Notes: A movable casting bar, with timer
+## Notes-ruRU: Подвижная панель применения с таймером
 ## Author: Tuller
 ## Dependencies: Bongos
 ## SavedVariablesPerCharacter:  BCastBarSets

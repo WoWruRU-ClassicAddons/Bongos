@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bongos
 ## Notes: Movable bar framework
+## Notes-ruRU: Замена стандартной панели действий
 ## Author: Tuller
 ## Version: 6.10.29
 ## OptionalDeps: CT_BottomBar
@@ -10,7 +11,8 @@ lib\TLib.lua
 lib\BEvent.lua
 lib\Infield.lua
 lib\FlyPaper.lua
-localization.lua
+trans\localization.lua
+trans\localization.ruRU.lua
 utility.lua
 bar.lua
 profiles.lua

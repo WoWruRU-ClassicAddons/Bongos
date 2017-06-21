@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bongos_RollBar
 ## Notes: Makes the frame for rolling on items movable
+## Notes-ruRU: Подвижный экран розыгрыша
 ## Author: Tuller
 ## Dependencies: Bongos
 ## SavedVariablesPerCharacter:  BRollBarSets

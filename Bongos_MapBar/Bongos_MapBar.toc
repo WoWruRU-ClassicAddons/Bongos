@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bongos_Minimap
 ## Notes: A customizable, movable minimap
+## Notes-ruRU: Настраиваемая, подвижная мини-карта
 ## Author: Tuller
 ## Dependencies: Bongos
 ## OptionalDeps: Titan

@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bongos_XP
 ## Notes: A movable experience and reputation bar
+## Notes-ruRU: Подвижная панель с опытом и репутацией
 ## Author: Tuller
 ## Dependencies: Bongos
 ## SavedVariablesPerCharacter:  BXPBarSets

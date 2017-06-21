@@ -1,11 +1,14 @@
 ## Interface: 11200
 ## Title: Bongos_ActionBar
 ## Notes: A replacement for the main actionbar
+## Notes-ruRU: Замена главной панели действий
 ## Author: Tuller
 ## Version: 6.10.25
 ## Dependencies: Bongos
 ## SavedVariablesPerCharacter: BActionSets, BStanceSets, BContextSets
-localization.lua
+trans\localization.lua
+trans\localization.ruRU.lua
+trans\localization.deDE.lua
 lib\IsBuffActive.lua
 core\unreg.lua
 core\utility.lua

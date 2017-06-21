@@ -1,9 +1,11 @@
 ## Interface: 11200
 ## Title: Bongos_Options
 ## Notes: Bongos' options menu
+## Notes-ruRU: Меню опций Bongos
 ## Author: Tuller
 ## Dependencies: Bongos
 ## LoadOnDemand: 1
-localization.lua
+trans\localization.lua
+trans\localization.ruRU.lua
 templates.xml
 menu.xml
